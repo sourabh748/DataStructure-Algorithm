@@ -65,26 +65,20 @@ This repository contains a comprehensive roadmap to become a **pro in Data Struc
 - Dynamic Programming (1D, 2D, Trees, Bitmask)
 - Greedy Algorithms
 
-### 💻 Practice
+### 
 - Medium to hard problems
 - Regular Codeforces/AtCoder practice
 
 ---
 
-## 🚀 Phase 4: Pro Level (Weeks 19–28)
-
-### 🎯 Objectives
-- Solve complex unseen problems
-- Compete in rated contests
-
-### 📘 Topics
+### 
 - Segment Tree, Binary Indexed Tree (Fenwick Tree)
 - Mo’s Algorithm
 - Sparse Table, HLD
 - Number Theory (Euler, Modular Inverse, CRT)
 - Game Theory (Minimax, Grundy)
 
-### 💻 Practice
+### 
 - 150+ hard problems
 - Weekly Codeforces contests
 - Problem-solving within 45 min timebox
@@ -104,27 +98,3 @@ This repository contains a comprehensive roadmap to become a **pro in Data Struc
 - *Introduction to Algorithms* (CLRS)
 - *Competitive Programming* by Halim
 - *Algorithm Design Manual* by Skiena
-
----
-
-## 🏆 Success Metrics
-
-- ✅ 500+ DSA problems solved
-- ✅ Strong grasp of theory and implementation
-- ✅ Consistent rating improvements in contests
-- ✅ Ready for FAANG/Top Tech DSA interviews
-
----
-
-## 📌 Tips
-- Break down every problem into patterns
-- Write clean, optimal code with time/space tradeoffs in mind
-- Don’t memorize — **understand and derive**
-
----
-
-## 🧑‍💻 Contributions
-
-Feel free to fork this roadmap and add your own progress tracker, notes, or favorite resources!
-
-Happy coding! 🚀
